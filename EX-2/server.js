@@ -1,5 +1,5 @@
 // server.js
-import express from 'express'; // Fixed: removed parentheses
+import express from 'express';
 import courses from "./course.js";
 
 const app = express();
